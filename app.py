@@ -7,6 +7,7 @@ from streamlit_option_menu import option_menu
 st.set_page_config(page_title="Health Assistant",
                    layout="wide",
                    page_icon="🧑‍⚕️")
+st.title("Team Members")
 team_members = [
         "Dhanush R",
         "MuthuManohar V",
