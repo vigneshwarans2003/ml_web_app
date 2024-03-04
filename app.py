@@ -15,8 +15,8 @@ team_members = [
         
     ]
     
-    for member in team_members:
-        st.write(f"- {member}")
+for member in team_members:
+  st.write(f"- {member}")
 
     
 # getting the working directory of the main.py
