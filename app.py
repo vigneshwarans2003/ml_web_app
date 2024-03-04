@@ -7,6 +7,16 @@ from streamlit_option_menu import option_menu
 st.set_page_config(page_title="Health Assistant",
                    layout="wide",
                    page_icon="🧑‍⚕️")
+team_members = [
+        "Dhanush R",
+        "MuthuManohar V",
+        "Saravanan S",
+        "Vigneshwaran S",
+        
+    ]
+    
+    for member in team_members:
+        st.write(f"- {member}")
 
     
 # getting the working directory of the main.py
