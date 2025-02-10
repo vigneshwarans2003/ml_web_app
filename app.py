@@ -10,9 +10,10 @@ st.set_page_config(page_title="Health Assistant",
 st.title("Team Members")
 team_members = [
         "Dhanush R",
-        "MuthuManohar V",
         "Saravanan S",
+        "Tharunkumar G", 
         "Vigneshwaran S",
+          
         
     ]
     
